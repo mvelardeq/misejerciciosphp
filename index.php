@@ -11,6 +11,7 @@
     <ul>
         <li><a href="maximoNumeros/maximonumeros.php">El número máximo de 'n' números</a></li>
         <li><a href="mcm3numeros/mcm3numeros.php">Mínimo común múltiplo de 3 números</a></li>
+        <li><a href="descomposicioncanonica/formdescomposicion.php">Descomposición canónica de un número</a></li>
     </ul>
 </body>
 </html>
