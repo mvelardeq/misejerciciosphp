@@ -15,5 +15,7 @@
         }
         return $a[$m];
     }
-    var_dump(maximo($_GET));
+    
+    echo "<a href='../index.php'>Inicio</a><br>";
+    echo maximo($_GET);
 ?>

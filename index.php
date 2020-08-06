@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Mis ejercicios de programación</title>
 </head>
 <body>
-    <h1>Ordenar varios números</h1>
-    <form action="form.php" method="get">
-        <label for="cantidad">Ingrese cantidad de números a ordenar</label>
-        <input type="number" name="cantidad" id="cantidad">
-        <input type="submit" value="Enter">
-    </form>
+    <h1>Mis ejercicios de programación en PHP</h1>
+    <p>Elige que programa quiere probar:</p>
+    <ul>
+        <li><a href="maximoNumeros/maximonumeros.php">El número máximo de 'n' números</a></li>
+        <li><a href="mcm3numeros/mcm3numeros.php">Mínimo común múltiplo de 3 números</a></li>
+    </ul>
 </body>
 </html>
